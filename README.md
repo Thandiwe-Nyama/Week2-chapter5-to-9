@@ -1,7 +1,7 @@
 # Week2-chapter5-to-9
 HTML Working with Graphics and Images
 Images When we want to add an image to a webpage, we use the image element, which is simply written as IMG. 
-<img src="image.jpg" alt="image name" width="30" height="50">
+<img src="image.jpg" alt="image" width="200" height="100">
 there are four attributes that need to be included for every image: First, we have the source attribute (SRC), which tells the browser which image file to load. 
 Then we have the alt attribute (ALT), which provides a text description of the image. 
 Lastly, we have the width and height attributes, which determine the size of the image. So, every image should have all four of these attributes.
